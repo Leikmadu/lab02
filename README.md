@@ -135,7 +135,7 @@ $ gist REPORT.md
 
 ## Выполнение домашнего задания
 
-### Part1
+### Part I
 
 1. Создайте пустой репозиторий на сервисе github.com (или gitlab.com, или bitbucket.com).
 
@@ -358,7 +358,7 @@ git branch -d patch1
 Deleted branch patch1 (was 0ca7445).
 ```
 
-###Part III
+### Part III
 Note: Работать продолжайте с теми же репоззиториями, что и в первой части задания.
 
 1. Создайте новую локальную ветку patch2.
